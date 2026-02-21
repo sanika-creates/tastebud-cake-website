@@ -1,0 +1,1 @@
+Developed a responsive full-stack web application using React.js, TypeScript, Tailwind CSS, and Firebase Realtime Database. Implemented real-time feedback storage with an admin dashboard, search functionality, and interactive UI components built with a reusable architecture.
