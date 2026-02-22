@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAdVBsMhwD9MxqITVys38cBeXBX_ftgrMU",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "tastebuds-mumbai.firebaseapp.com",
   databaseURL: "https://tastebuds-mumbai-default-rtdb.firebaseio.com",
   projectId: "tastebuds-mumbai",
