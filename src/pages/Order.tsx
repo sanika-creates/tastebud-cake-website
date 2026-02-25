@@ -14,7 +14,6 @@ import cupcake7 from "../assets/cupcake7.webp";
 import cake1 from "../assets/cake1.jpg";
 import cake2 from "../assets/cake2.jpg";
 import cake3 from "../assets/cake3.webp";
-import cake4 from "../assets/2.jpg";
 import cake5 from "../assets/cake5.jpg";
 import cake6 from "../assets/cake6.jpg";
 import cake7 from "../assets/cake7.jpg";
@@ -57,7 +56,7 @@ const menuItems: MenuItem[] = [
   { id: 8, name: "Vanilla Custard with Fruit (optional)", price: 1200, category: "Cakes", image: cake1 },
   { id: 9, name: "Vanilla Funfutti", price: 1000, category: "Cakes", image: cake2 },
   { id: 10, name: "Chocolate Mousse Cake", price: 1000, category: "Cakes", image: cake3 },
-  { id: 11, name: "Dark Chocolate Cake", price: 1200, category: "Cakes", image: cake4 },
+  { id: 11, name: "Dark Chocolate Cake", price: 1200, category: "Cakes", image: "/gallery/2.jpg" },
   { id: 12, name: "Dark Chocolate with Salted Caramel Cake", price: 1200, category: "Cakes", image: cake5 },
   { id: 13, name: "Red Velvet with Cheese Cream Cake", price: 1000, category: "Cakes", image: cake6 },
   { id: 14, name: "Red Velvet with Chocolate Ganache Cake", price: 1200, category: "Cakes", image: cake7 },
